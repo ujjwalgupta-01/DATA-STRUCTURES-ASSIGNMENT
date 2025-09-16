@@ -19,10 +19,10 @@ int main(){
     cout<<endl;
     int x=0;
     cout<<"REVERSE MATRIX IS :-";
+    int br;
     for(int i=(n-1);i>=0;i--){
-        x=arr[i]%10;
-        arr[i]+=x;
-        cout<<x<<" ";
+       br=arr[i];
+       cout<<br<<" ";
     }
-
+    
 }

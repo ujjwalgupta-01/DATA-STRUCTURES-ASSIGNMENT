@@ -5,10 +5,10 @@ int  main(){
     int arr[100][100];
 
     int r;
-    cout<<"ENTER THR NO. OF ROWS ->";
+    cout<<"ENTER THE NO. OF ROWS ->";
     cin>>r;
     int c;
-    cout<<"ENTER THR NO. OF columns ->";
+    cout<<"ENTER THE NO. OF columns ->";
     cin>>c;
     for(int i=0; i<r;i++){
         for(int j=0;j<c;j++){
